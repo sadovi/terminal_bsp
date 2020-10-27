@@ -1,0 +1,11 @@
+prefix=/home/yaniv/share/hiSkyDev/3rdparty/zedboard/buildroot-output/host
+exec_prefix=/home/yaniv/share/hiSkyDev/3rdparty/zedboard/buildroot-output/host
+libdir=/home/yaniv/share/hiSkyDev/3rdparty/zedboard/buildroot-output/host/lib
+includedir=/home/yaniv/share/hiSkyDev/3rdparty/zedboard/buildroot-output/host/include
+
+Name: blkid
+Description: Block device id library
+Version: 2.31.1
+Requires.private: uuid
+Cflags: -I${includedir}/blkid
+Libs: -L${libdir} -lblkid

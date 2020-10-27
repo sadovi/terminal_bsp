@@ -1,0 +1,3 @@
+main.c:46:13:show_boot_progress	0	static
+main.c:84:6:blink_led_ex	0	static
+main.c:103:6:main_loop	40	static

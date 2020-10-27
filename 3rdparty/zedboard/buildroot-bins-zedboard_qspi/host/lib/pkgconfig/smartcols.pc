@@ -1,0 +1,10 @@
+prefix=/home/yaniv/share/hiSkyDev/3rdparty/zedboard/buildroot-output/host
+exec_prefix=/home/yaniv/share/hiSkyDev/3rdparty/zedboard/buildroot-output/host
+libdir=/home/yaniv/share/hiSkyDev/3rdparty/zedboard/buildroot-output/host/lib
+includedir=/home/yaniv/share/hiSkyDev/3rdparty/zedboard/buildroot-output/host/include
+
+Name: smartcols
+Description: table or tree library
+Version: 2.31.1
+Cflags: -I${includedir}/libsmartcols
+Libs: -L${libdir} -lsmartcols

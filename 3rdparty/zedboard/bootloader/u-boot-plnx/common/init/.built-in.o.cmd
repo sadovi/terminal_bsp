@@ -1,0 +1,1 @@
+cmd_common/init/built-in.o :=  /home/yaniv/share/hiSkyDev_04.08.20/3rdparty/zedboard/toolchain/gcc-arm-linux-gnueabi/bin/arm-linux-gnueabihf-ld.bfd     -r -o common/init/built-in.o common/init/board_init.o 

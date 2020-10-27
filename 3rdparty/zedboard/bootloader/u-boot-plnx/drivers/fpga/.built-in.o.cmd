@@ -1,0 +1,1 @@
+cmd_drivers/fpga/built-in.o :=  /home/yaniv/share/hiSkyDev_04.08.20/3rdparty/zedboard/toolchain/gcc-arm-linux-gnueabi/bin/arm-linux-gnueabihf-ld.bfd     -r -o drivers/fpga/built-in.o drivers/fpga/fpga.o drivers/fpga/zynqpl.o drivers/fpga/xilinx.o 

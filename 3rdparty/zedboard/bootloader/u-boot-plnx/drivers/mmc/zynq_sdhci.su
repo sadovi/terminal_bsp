@@ -1,0 +1,3 @@
+zynq_sdhci.c:220:12:arasan_sdhci_ofdata_to_platdata	16	static
+zynq_sdhci.c:173:12:arasan_sdhci_probe	32	static
+zynq_sdhci.c:250:12:arasan_sdhci_bind	8	static

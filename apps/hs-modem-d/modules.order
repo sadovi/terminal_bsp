@@ -1,0 +1,3 @@
+kernel//home/yaniv/share/hiSkyDev/apps/hs-modem-d/hsmodem.ko
+kernel//home/yaniv/share/hiSkyDev/apps/hs-modem-d/lowrate.ko
+kernel//home/yaniv/share/hiSkyDev/apps/hs-modem-d/hsfifo.ko

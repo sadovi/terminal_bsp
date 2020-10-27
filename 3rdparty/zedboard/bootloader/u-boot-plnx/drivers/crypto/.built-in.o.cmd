@@ -1,0 +1,1 @@
+cmd_drivers/crypto/built-in.o :=  /home/yaniv/share/hiSkyDev_04.08.20/3rdparty/zedboard/toolchain/gcc-arm-linux-gnueabi/bin/arm-linux-gnueabihf-ld.bfd     -r -o drivers/crypto/built-in.o drivers/crypto/rsa_mod_exp/built-in.o drivers/crypto/fsl/built-in.o 

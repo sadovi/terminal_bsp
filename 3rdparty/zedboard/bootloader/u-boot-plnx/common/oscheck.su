@@ -1,0 +1,3 @@
+oscheck.c:45:12:hex_to_val	0	static
+oscheck.c:61:5:md5_check	128	static
+oscheck.c:130:5:do_oscheck	8	static

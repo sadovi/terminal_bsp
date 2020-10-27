@@ -1,0 +1,2 @@
+#! /bin/sh
+exec '/home/yaniv/share/hiSkyDev_04.08.20/3rdparty/zedboard/buildroot-output/host/bin/bison' -y "$@"

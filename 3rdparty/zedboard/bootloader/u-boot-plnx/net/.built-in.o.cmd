@@ -1,0 +1,1 @@
+cmd_net/built-in.o :=  /home/yaniv/share/hiSkyDev_04.08.20/3rdparty/zedboard/toolchain/gcc-arm-linux-gnueabi/bin/arm-linux-gnueabihf-ld.bfd     -r -o net/built-in.o net/checksum.o net/arp.o net/bootp.o net/eth-uclass.o net/eth_common.o net/net.o net/ping.o net/tftp.o 

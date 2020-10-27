@@ -1,0 +1,1 @@
+cmd_/home/yaniv/share/hiSkyDev/apps/hs-modem-d/hsfifo.o := /home/yaniv/share/hiSkyDev/apps/hs-modem-d/../../3rdparty/zedboard/buildroot-bins-zedboard/host/bin/arm-linux-gnueabihf-ld -EL    -r -o /home/yaniv/share/hiSkyDev/apps/hs-modem-d/hsfifo.o /home/yaniv/share/hiSkyDev/apps/hs-modem-d/src/hs-fifo.o 

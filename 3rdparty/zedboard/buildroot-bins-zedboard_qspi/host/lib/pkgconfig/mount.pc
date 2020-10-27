@@ -1,0 +1,11 @@
+prefix=/home/yaniv/share/hiSkyDev/3rdparty/zedboard/buildroot-output/host
+exec_prefix=/home/yaniv/share/hiSkyDev/3rdparty/zedboard/buildroot-output/host
+libdir=/home/yaniv/share/hiSkyDev/3rdparty/zedboard/buildroot-output/host/lib
+includedir=/home/yaniv/share/hiSkyDev/3rdparty/zedboard/buildroot-output/host/include
+
+Name: mount
+Description: mount library
+Version: 2.31.1
+Requires.private: blkid
+Cflags: -I${includedir}/libmount
+Libs: -L${libdir} -lmount

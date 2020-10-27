@@ -1,0 +1,1 @@
+cmd_examples/standalone/hello_world.srec := /home/yaniv/share/hiSkyDev_04.08.20/3rdparty/zedboard/toolchain/gcc-arm-linux-gnueabi/bin/arm-linux-gnueabihf-objcopy -O srec  examples/standalone/hello_world examples/standalone/hello_world.srec

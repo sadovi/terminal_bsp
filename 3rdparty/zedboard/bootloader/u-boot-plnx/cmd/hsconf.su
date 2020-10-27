@@ -1,0 +1,12 @@
+hsconf.c:420:12:delete_param_from_memory	2064	static
+hsconf.c:155:5:load_data	64	static
+hsconf.c:554:5:set_param	2144	static
+hsconf.c:72:15:get_hiSkyID	24	static
+hsconf.c:705:5:set_rfSettings	128	static
+hsconf.c:825:5:set_wfSettings	40	static
+hsconf.c:200:5:write_blobA	80	static
+hsconf.c:238:5:set_blobA_param	2072	static
+hsconf.c:343:5:set_macAddr	32	static
+hsconf.c:379:5:set_hiSkyId	16	static
+hsconf.c:397:5:print_param	16	static
+hsconf.c:860:12:do_hsconf	120	static
