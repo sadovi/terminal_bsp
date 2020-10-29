@@ -1,1 +1,0 @@
-cmd_u-boot.srec := /home/yaniv/share/hiSkyDev_04.08.20/3rdparty/zedboard/toolchain/gcc-arm-linux-gnueabi/bin/arm-linux-gnueabihf-objcopy --gap-fill=0xff  -j .text -j .secure_text -j .secure_data -j .rodata -j .hash -j .data -j .got -j .got.plt -j .u_boot_list -j .rel.dyn -j .dtb.init.rodata -j .efi_runtime -j .efi_runtime_rel -O srec u-boot u-boot.srec
