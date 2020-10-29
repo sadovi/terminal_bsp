@@ -1,1 +1,0 @@
-cmd_drivers/spi/built-in.o :=  /home/yaniv/share/hiSkyDev_04.08.20/3rdparty/zedboard/toolchain/gcc-arm-linux-gnueabi/bin/arm-linux-gnueabihf-ld.bfd     -r -o drivers/spi/built-in.o drivers/spi/spi-uclass.o drivers/spi/zynq_qspi.o 

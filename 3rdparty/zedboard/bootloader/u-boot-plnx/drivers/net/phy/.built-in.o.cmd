@@ -1,1 +1,0 @@
-cmd_drivers/net/phy/built-in.o :=  /home/yaniv/share/hiSkyDev_04.08.20/3rdparty/zedboard/toolchain/gcc-arm-linux-gnueabi/bin/arm-linux-gnueabihf-ld.bfd     -r -o drivers/net/phy/built-in.o drivers/net/phy/phy.o drivers/net/phy/marvell.o drivers/net/phy/natsemi.o drivers/net/phy/xilinx_phy.o 

@@ -1,1 +1,0 @@
-cmd_drivers/tpm/built-in.o :=  rm -f drivers/tpm/built-in.o; /home/yaniv/share/hiSkyDev_04.08.20/3rdparty/zedboard/toolchain/gcc-arm-linux-gnueabi/bin/arm-linux-gnueabihf-ar rcs drivers/tpm/built-in.o

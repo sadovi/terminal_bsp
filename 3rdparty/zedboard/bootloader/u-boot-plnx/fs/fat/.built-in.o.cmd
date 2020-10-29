@@ -1,1 +1,0 @@
-cmd_fs/fat/built-in.o :=  /home/yaniv/share/hiSkyDev_04.08.20/3rdparty/zedboard/toolchain/gcc-arm-linux-gnueabi/bin/arm-linux-gnueabihf-ld.bfd     -r -o fs/fat/built-in.o fs/fat/fat_write.o fs/fat/file.o 
